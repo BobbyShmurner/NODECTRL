@@ -17,6 +17,9 @@ public class NodeGroup : MonoBehaviour
     static public Sprite[] sprites;
     static public float ppu;
 
+    SpriteMask mask;
+    Transform nodesEmptyTrans; // This is just for orginisation purporses
+
     bool[,] nodes;
     float maxEnergyCount;
 
@@ -30,6 +33,9 @@ public class NodeGroup : MonoBehaviour
 
             ppu = sprites[0].pixelsPerUnit;
         }
+
+        mask = GetComponentInChildren<SpriteMask>();
+        nodesEmptyTrans = transform.GetChild(0); // Child 0 Should be the empty 'Nodes' GO
     }
 
     void Start()
@@ -40,7 +46,7 @@ public class NodeGroup : MonoBehaviour
     public void GenerateNodes()
     {
         // Destroy Existing Nodes
-        foreach (Transform child in transform)
+        foreach (Transform child in nodesEmptyTrans)
         {
             Destroy(child.gameObject);
         }
@@ -65,7 +71,7 @@ public class NodeGroup : MonoBehaviour
             {
                 if (!nodes[x, y]) continue;
 
-                GameObject newNode = Instantiate(node, transform);
+                GameObject newNode = Instantiate(node, nodesEmptyTrans);
                 newNode.name = $"Node ({x}, {y})";
 
                 Vector2 pos = new Vector2(0.5f, 0.5f);
@@ -80,6 +86,9 @@ public class NodeGroup : MonoBehaviour
                 newNode.transform.GetChild(0).GetComponent<SpriteRenderer>().material.SetColor("_Color", energyColor);
             }
         }
+
+        // Setup Mask
+        mask.transform.localScale = new Vector3(nodeGroupSize.x / (ppu / 5), nodeGroupSize.y / (ppu / 5), 1);
     }
 }
 
