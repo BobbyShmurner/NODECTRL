@@ -12,10 +12,13 @@ public class NodeGroup : MonoBehaviour
     [SerializeField] Color energyColor = Color.red;
     [SerializeField] Vector2Int nodeGroupSize;
     [SerializeField] float energyCount;
+    [SerializeField] [Range(0.0f, 1.0f)] float energyLevel;
 
     static public Sprite[] sprites;
+    static public float ppu;
+
     bool[,] nodes;
-    float ppu;
+    float maxEnergyCount;
 
     private void Awake()
     {
@@ -41,6 +44,9 @@ public class NodeGroup : MonoBehaviour
         {
             Destroy(child.gameObject);
         }
+
+        // Sets the Max Energy. This is used for calculating the percentage full
+        maxEnergyCount = energyCount;
 
         // This just populates the node group for testing
         nodes = new bool[nodeGroupSize.x, nodeGroupSize.y];
