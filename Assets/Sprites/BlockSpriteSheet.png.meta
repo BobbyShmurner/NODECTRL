@@ -1,0 +1,6535 @@
+fileFormatVersion: 2
+guid: dd98578752794344bb526b0ad5569789
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6703826278394861783
+    second: BlockSpriteSheet_000
+  - first:
+      213: 6820222646314467982
+    second: BlockSpriteSheet_001
+  - first:
+      213: 4465627969346785286
+    second: BlockSpriteSheet_002
+  - first:
+      213: -5616784133353023282
+    second: BlockSpriteSheet_003
+  - first:
+      213: -412871110388946073
+    second: BlockSpriteSheet_004
+  - first:
+      213: 8327665683056004438
+    second: BlockSpriteSheet_005
+  - first:
+      213: -3888473976069010509
+    second: BlockSpriteSheet_006
+  - first:
+      213: -5179981992134589959
+    second: BlockSpriteSheet_007
+  - first:
+      213: 302839351926954555
+    second: BlockSpriteSheet_008
+  - first:
+      213: -2101310552801062886
+    second: BlockSpriteSheet_009
+  - first:
+      213: -8544350883435880737
+    second: BlockSpriteSheet_010
+  - first:
+      213: 4774710941067651373
+    second: BlockSpriteSheet_011
+  - first:
+      213: -5521448273534546589
+    second: BlockSpriteSheet_012
+  - first:
+      213: -7314551004506205395
+    second: BlockSpriteSheet_013
+  - first:
+      213: 1278649507792310887
+    second: BlockSpriteSheet_014
+  - first:
+      213: 832007608378401709
+    second: BlockSpriteSheet_015
+  - first:
+      213: -1351034596710256411
+    second: BlockSpriteSheet_016
+  - first:
+      213: 4693843405334110048
+    second: BlockSpriteSheet_017
+  - first:
+      213: -9146210706671819008
+    second: BlockSpriteSheet_018
+  - first:
+      213: -8305551922232719055
+    second: BlockSpriteSheet_019
+  - first:
+      213: 8098418028472790020
+    second: BlockSpriteSheet_020
+  - first:
+      213: 6122965252453616747
+    second: BlockSpriteSheet_021
+  - first:
+      213: -2297990238845451197
+    second: BlockSpriteSheet_022
+  - first:
+      213: 6889296908231328855
+    second: BlockSpriteSheet_023
+  - first:
+      213: -4716239579249047836
+    second: BlockSpriteSheet_024
+  - first:
+      213: 814488197150188449
+    second: BlockSpriteSheet_025
+  - first:
+      213: -2610665096985217532
+    second: BlockSpriteSheet_026
+  - first:
+      213: 8176453899893422266
+    second: BlockSpriteSheet_027
+  - first:
+      213: -476597762447885141
+    second: BlockSpriteSheet_028
+  - first:
+      213: 2641662281260045767
+    second: BlockSpriteSheet_029
+  - first:
+      213: -5972626479851935481
+    second: BlockSpriteSheet_030
+  - first:
+      213: 1994430217541358455
+    second: BlockSpriteSheet_031
+  - first:
+      213: 5904175193916556050
+    second: BlockSpriteSheet_032
+  - first:
+      213: -6473191713802301701
+    second: BlockSpriteSheet_033
+  - first:
+      213: 30494616725709134
+    second: BlockSpriteSheet_034
+  - first:
+      213: -8712156885293860976
+    second: BlockSpriteSheet_035
+  - first:
+      213: 7084836830777973123
+    second: BlockSpriteSheet_036
+  - first:
+      213: 4117462517566908048
+    second: BlockSpriteSheet_037
+  - first:
+      213: -6744823052512069855
+    second: BlockSpriteSheet_038
+  - first:
+      213: 7257866603869992626
+    second: BlockSpriteSheet_039
+  - first:
+      213: -8029536159634433753
+    second: BlockSpriteSheet_040
+  - first:
+      213: -8792025378399097588
+    second: BlockSpriteSheet_041
+  - first:
+      213: 8207447047895119065
+    second: BlockSpriteSheet_042
+  - first:
+      213: 1298403122681125668
+    second: BlockSpriteSheet_043
+  - first:
+      213: 679831474989762979
+    second: BlockSpriteSheet_044
+  - first:
+      213: -7461690954492360386
+    second: BlockSpriteSheet_045
+  - first:
+      213: -7516131637940406655
+    second: BlockSpriteSheet_046
+  - first:
+      213: 7186922730792828629
+    second: BlockSpriteSheet_047
+  - first:
+      213: 4875445861877081550
+    second: BlockSpriteSheet_048
+  - first:
+      213: -8164516976091238609
+    second: BlockSpriteSheet_049
+  - first:
+      213: 3594360411357331592
+    second: BlockSpriteSheet_050
+  - first:
+      213: 3294836360114857155
+    second: BlockSpriteSheet_051
+  - first:
+      213: -5452363482865693192
+    second: BlockSpriteSheet_052
+  - first:
+      213: 3855174021342582810
+    second: BlockSpriteSheet_053
+  - first:
+      213: 9073901456980130757
+    second: BlockSpriteSheet_054
+  - first:
+      213: 6858621609308148352
+    second: BlockSpriteSheet_055
+  - first:
+      213: 6905813223972707880
+    second: BlockSpriteSheet_056
+  - first:
+      213: 5623744593791682426
+    second: BlockSpriteSheet_057
+  - first:
+      213: -9069227848032580490
+    second: BlockSpriteSheet_058
+  - first:
+      213: -3483836209205997647
+    second: BlockSpriteSheet_059
+  - first:
+      213: -2462273018252423887
+    second: BlockSpriteSheet_060
+  - first:
+      213: 3731826186944764936
+    second: BlockSpriteSheet_061
+  - first:
+      213: -1636891795584853170
+    second: BlockSpriteSheet_062
+  - first:
+      213: 4472168672233022080
+    second: BlockSpriteSheet_063
+  - first:
+      213: 6659124519202961928
+    second: BlockSpriteSheet_064
+  - first:
+      213: 1274857474136231834
+    second: BlockSpriteSheet_065
+  - first:
+      213: -5058213409487752825
+    second: BlockSpriteSheet_066
+  - first:
+      213: -916766305637673341
+    second: BlockSpriteSheet_067
+  - first:
+      213: -486806978419737136
+    second: BlockSpriteSheet_068
+  - first:
+      213: 1052464603028969434
+    second: BlockSpriteSheet_069
+  - first:
+      213: -1631229124554168123
+    second: BlockSpriteSheet_070
+  - first:
+      213: 3389744937832412050
+    second: BlockSpriteSheet_071
+  - first:
+      213: -2063881283975097081
+    second: BlockSpriteSheet_072
+  - first:
+      213: -4373444083497479403
+    second: BlockSpriteSheet_073
+  - first:
+      213: -6300348673297010213
+    second: BlockSpriteSheet_074
+  - first:
+      213: 3744996360343713515
+    second: BlockSpriteSheet_075
+  - first:
+      213: 8248065782543051353
+    second: BlockSpriteSheet_076
+  - first:
+      213: 467792505093102281
+    second: BlockSpriteSheet_077
+  - first:
+      213: -3617011087024014302
+    second: BlockSpriteSheet_078
+  - first:
+      213: -3016049713211934733
+    second: BlockSpriteSheet_079
+  - first:
+      213: 7217510975549347387
+    second: BlockSpriteSheet_080
+  - first:
+      213: 6652487627031119516
+    second: BlockSpriteSheet_081
+  - first:
+      213: -4942258191201878308
+    second: BlockSpriteSheet_082
+  - first:
+      213: 4733957728642510928
+    second: BlockSpriteSheet_083
+  - first:
+      213: -2053875493585054597
+    second: BlockSpriteSheet_084
+  - first:
+      213: -1291462869464823201
+    second: BlockSpriteSheet_085
+  - first:
+      213: 4814593661046646063
+    second: BlockSpriteSheet_086
+  - first:
+      213: 4336627106311974262
+    second: BlockSpriteSheet_087
+  - first:
+      213: -5134979526987798523
+    second: BlockSpriteSheet_088
+  - first:
+      213: -120492429978514949
+    second: BlockSpriteSheet_089
+  - first:
+      213: 9083732419591776766
+    second: BlockSpriteSheet_090
+  - first:
+      213: -3028489811047727197
+    second: BlockSpriteSheet_091
+  - first:
+      213: -3231776680190881952
+    second: BlockSpriteSheet_092
+  - first:
+      213: -8327341912223693398
+    second: BlockSpriteSheet_093
+  - first:
+      213: 672835254178945550
+    second: BlockSpriteSheet_094
+  - first:
+      213: 7083116373023565613
+    second: BlockSpriteSheet_095
+  - first:
+      213: -8112130226230074197
+    second: BlockSpriteSheet_096
+  - first:
+      213: -9131534476246917012
+    second: BlockSpriteSheet_097
+  - first:
+      213: -3743024314581746173
+    second: BlockSpriteSheet_098
+  - first:
+      213: -835548828373049640
+    second: BlockSpriteSheet_099
+  - first:
+      213: -1738422835741160652
+    second: BlockSpriteSheet_100
+  - first:
+      213: 7561877905996788719
+    second: BlockSpriteSheet_101
+  - first:
+      213: -7744036034759984125
+    second: BlockSpriteSheet_102
+  - first:
+      213: -332513180724571351
+    second: BlockSpriteSheet_103
+  - first:
+      213: 6293554749266960522
+    second: BlockSpriteSheet_104
+  - first:
+      213: 4151960648458792020
+    second: BlockSpriteSheet_105
+  - first:
+      213: 9010518812438252098
+    second: BlockSpriteSheet_106
+  - first:
+      213: 7981779789921896175
+    second: BlockSpriteSheet_107
+  - first:
+      213: -2264751211139005646
+    second: BlockSpriteSheet_108
+  - first:
+      213: 6518798269639078260
+    second: BlockSpriteSheet_109
+  - first:
+      213: 117522849549791013
+    second: BlockSpriteSheet_110
+  - first:
+      213: 8040881466581094027
+    second: BlockSpriteSheet_111
+  - first:
+      213: 5971061599327083837
+    second: BlockSpriteSheet_112
+  - first:
+      213: -3670739348556612189
+    second: BlockSpriteSheet_113
+  - first:
+      213: -8800238240740748067
+    second: BlockSpriteSheet_114
+  - first:
+      213: 4832493307619748319
+    second: BlockSpriteSheet_115
+  - first:
+      213: 7683160262813633733
+    second: BlockSpriteSheet_116
+  - first:
+      213: 6709805635154145115
+    second: BlockSpriteSheet_117
+  - first:
+      213: -3583929162161297836
+    second: BlockSpriteSheet_118
+  - first:
+      213: -8843439570884584215
+    second: BlockSpriteSheet_119
+  - first:
+      213: 2830398825073851678
+    second: BlockSpriteSheet_120
+  - first:
+      213: 4225877577401246230
+    second: BlockSpriteSheet_121
+  - first:
+      213: -8215138774750921110
+    second: BlockSpriteSheet_122
+  - first:
+      213: -350944382206472722
+    second: BlockSpriteSheet_123
+  - first:
+      213: 927536899016790768
+    second: BlockSpriteSheet_124
+  - first:
+      213: -1368556830896523506
+    second: BlockSpriteSheet_125
+  - first:
+      213: -7757765673716795311
+    second: BlockSpriteSheet_126
+  - first:
+      213: 8084290839371727762
+    second: BlockSpriteSheet_127
+  - first:
+      213: -4890103863861281318
+    second: BlockSpriteSheet_128
+  - first:
+      213: 664426644606842761
+    second: BlockSpriteSheet_129
+  - first:
+      213: -286097917091481145
+    second: BlockSpriteSheet_130
+  - first:
+      213: -7510205168041389770
+    second: BlockSpriteSheet_131
+  - first:
+      213: -6850690204218138292
+    second: BlockSpriteSheet_132
+  - first:
+      213: 7938648759564819810
+    second: BlockSpriteSheet_133
+  - first:
+      213: -5804793658386619808
+    second: BlockSpriteSheet_134
+  - first:
+      213: -4110152261195126822
+    second: BlockSpriteSheet_135
+  - first:
+      213: 7497693954220453445
+    second: BlockSpriteSheet_136
+  - first:
+      213: -2582891201691181706
+    second: BlockSpriteSheet_137
+  - first:
+      213: 2140304836640450068
+    second: BlockSpriteSheet_138
+  - first:
+      213: -4554999285313222542
+    second: BlockSpriteSheet_139
+  - first:
+      213: -2464926710688743034
+    second: BlockSpriteSheet_140
+  - first:
+      213: 7065503378861538157
+    second: BlockSpriteSheet_141
+  - first:
+      213: -8838556180139695921
+    second: BlockSpriteSheet_142
+  - first:
+      213: 4876619240151107475
+    second: BlockSpriteSheet_143
+  - first:
+      213: 7271204865332915912
+    second: BlockSpriteSheet_144
+  - first:
+      213: 606983454417344413
+    second: BlockSpriteSheet_145
+  - first:
+      213: 7804382567950473174
+    second: BlockSpriteSheet_146
+  - first:
+      213: 922697057307753455
+    second: BlockSpriteSheet_147
+  - first:
+      213: -3712381787475386569
+    second: BlockSpriteSheet_148
+  - first:
+      213: 8450741541086888452
+    second: BlockSpriteSheet_149
+  - first:
+      213: 1819922854915976038
+    second: BlockSpriteSheet_150
+  - first:
+      213: -3849953424446095499
+    second: BlockSpriteSheet_151
+  - first:
+      213: -8791865253794520547
+    second: BlockSpriteSheet_152
+  - first:
+      213: -8079017335125859874
+    second: BlockSpriteSheet_153
+  - first:
+      213: 1331092379035531588
+    second: BlockSpriteSheet_154
+  - first:
+      213: 4599325831109605325
+    second: BlockSpriteSheet_155
+  - first:
+      213: 7096998620538962321
+    second: BlockSpriteSheet_156
+  - first:
+      213: 8541705187263061240
+    second: BlockSpriteSheet_157
+  - first:
+      213: 7579447114498883079
+    second: BlockSpriteSheet_158
+  - first:
+      213: -2562255014474539696
+    second: BlockSpriteSheet_159
+  - first:
+      213: -5075100466177455735
+    second: BlockSpriteSheet_160
+  - first:
+      213: -4615255924122155014
+    second: BlockSpriteSheet_161
+  - first:
+      213: 8034072108691090420
+    second: BlockSpriteSheet_162
+  - first:
+      213: 7435897109892146984
+    second: BlockSpriteSheet_163
+  - first:
+      213: 3335034732246812425
+    second: BlockSpriteSheet_164
+  - first:
+      213: 4579960716708557205
+    second: BlockSpriteSheet_165
+  - first:
+      213: -3620910634119182814
+    second: BlockSpriteSheet_166
+  - first:
+      213: -4784063645207755447
+    second: BlockSpriteSheet_167
+  - first:
+      213: 9031544491340630522
+    second: BlockSpriteSheet_168
+  - first:
+      213: -1839052059174451020
+    second: BlockSpriteSheet_169
+  - first:
+      213: -3080836589200335070
+    second: BlockSpriteSheet_170
+  - first:
+      213: -9103941980248746595
+    second: BlockSpriteSheet_171
+  - first:
+      213: -5953032024359373984
+    second: BlockSpriteSheet_172
+  - first:
+      213: -6081460847002832906
+    second: BlockSpriteSheet_173
+  - first:
+      213: -6347803457598986457
+    second: BlockSpriteSheet_174
+  - first:
+      213: -1972754685177964805
+    second: BlockSpriteSheet_175
+  - first:
+      213: 6842821307783000668
+    second: BlockSpriteSheet_176
+  - first:
+      213: 5146573365572197042
+    second: BlockSpriteSheet_177
+  - first:
+      213: 2089115827292599395
+    second: BlockSpriteSheet_178
+  - first:
+      213: -4650194070677869606
+    second: BlockSpriteSheet_179
+  - first:
+      213: -3795173523101304972
+    second: BlockSpriteSheet_180
+  - first:
+      213: 6634483641889033024
+    second: BlockSpriteSheet_181
+  - first:
+      213: -291700418554035772
+    second: BlockSpriteSheet_182
+  - first:
+      213: 5157406626155201417
+    second: BlockSpriteSheet_183
+  - first:
+      213: 4147625809672128511
+    second: BlockSpriteSheet_184
+  - first:
+      213: -2315203373268708438
+    second: BlockSpriteSheet_185
+  - first:
+      213: 7094195508798484844
+    second: BlockSpriteSheet_186
+  - first:
+      213: -9075843025292300742
+    second: BlockSpriteSheet_187
+  - first:
+      213: -4457209201366549581
+    second: BlockSpriteSheet_188
+  - first:
+      213: 3707831527275945468
+    second: BlockSpriteSheet_189
+  - first:
+      213: -3636343567430308872
+    second: BlockSpriteSheet_190
+  - first:
+      213: -1847797142174259196
+    second: BlockSpriteSheet_191
+  - first:
+      213: 620191724103143072
+    second: BlockSpriteSheet_192
+  - first:
+      213: -2017404429830852194
+    second: BlockSpriteSheet_193
+  - first:
+      213: 3679033885479204542
+    second: BlockSpriteSheet_194
+  - first:
+      213: 4518488378513361185
+    second: BlockSpriteSheet_195
+  - first:
+      213: -593040999178544462
+    second: BlockSpriteSheet_196
+  - first:
+      213: -6600767351399172464
+    second: BlockSpriteSheet_197
+  - first:
+      213: -801464237186138371
+    second: BlockSpriteSheet_198
+  - first:
+      213: -6750687790580790478
+    second: BlockSpriteSheet_199
+  - first:
+      213: 2202048433676015576
+    second: BlockSpriteSheet_200
+  - first:
+      213: 2664205349055128227
+    second: BlockSpriteSheet_201
+  - first:
+      213: -8555711315621447185
+    second: BlockSpriteSheet_202
+  - first:
+      213: 2902812408155559604
+    second: BlockSpriteSheet_203
+  - first:
+      213: 8967114672367444949
+    second: BlockSpriteSheet_204
+  - first:
+      213: -1015129312604684949
+    second: BlockSpriteSheet_205
+  - first:
+      213: -8969541768672326473
+    second: BlockSpriteSheet_206
+  - first:
+      213: -7790602167681505194
+    second: BlockSpriteSheet_207
+  - first:
+      213: -6965465836106907173
+    second: BlockSpriteSheet_208
+  - first:
+      213: 2122341922529209521
+    second: BlockSpriteSheet_209
+  - first:
+      213: 5226623340347052524
+    second: BlockSpriteSheet_210
+  - first:
+      213: 6696910541776822848
+    second: BlockSpriteSheet_211
+  - first:
+      213: 3754563338318532629
+    second: BlockSpriteSheet_212
+  - first:
+      213: -9132520428081306421
+    second: BlockSpriteSheet_213
+  - first:
+      213: -8593762699162875178
+    second: BlockSpriteSheet_214
+  - first:
+      213: 7072491511521687057
+    second: BlockSpriteSheet_215
+  - first:
+      213: 7793746015381949301
+    second: BlockSpriteSheet_216
+  - first:
+      213: 3500399034786489034
+    second: BlockSpriteSheet_217
+  - first:
+      213: 3414865553379235726
+    second: BlockSpriteSheet_218
+  - first:
+      213: -5073494505109806134
+    second: BlockSpriteSheet_219
+  - first:
+      213: 2318888364991603875
+    second: BlockSpriteSheet_220
+  - first:
+      213: 6795193499885816307
+    second: BlockSpriteSheet_221
+  - first:
+      213: -132742205967088988
+    second: BlockSpriteSheet_222
+  - first:
+      213: -5979410765954625385
+    second: BlockSpriteSheet_223
+  - first:
+      213: 4198770431206551424
+    second: BlockSpriteSheet_224
+  - first:
+      213: -8308827268088084328
+    second: BlockSpriteSheet_225
+  - first:
+      213: -3123294546031007331
+    second: BlockSpriteSheet_226
+  - first:
+      213: -8446307199529773762
+    second: BlockSpriteSheet_227
+  - first:
+      213: -1317778677198057708
+    second: BlockSpriteSheet_228
+  - first:
+      213: 879285361109540486
+    second: BlockSpriteSheet_229
+  - first:
+      213: 3975707367143088514
+    second: BlockSpriteSheet_230
+  - first:
+      213: 6263877693693069253
+    second: BlockSpriteSheet_231
+  - first:
+      213: -947667381651342738
+    second: BlockSpriteSheet_232
+  - first:
+      213: -436568505250660331
+    second: BlockSpriteSheet_233
+  - first:
+      213: -4073420423103378305
+    second: BlockSpriteSheet_234
+  - first:
+      213: 3792226689285487094
+    second: BlockSpriteSheet_235
+  - first:
+      213: -1834262779867013555
+    second: BlockSpriteSheet_236
+  - first:
+      213: 1594091176665324184
+    second: BlockSpriteSheet_237
+  - first:
+      213: -2054841435393421911
+    second: BlockSpriteSheet_238
+  - first:
+      213: 556844190328552482
+    second: BlockSpriteSheet_239
+  - first:
+      213: -6204940086929526040
+    second: BlockSpriteSheet_240
+  - first:
+      213: 5066693883955854667
+    second: BlockSpriteSheet_241
+  - first:
+      213: 3638218201948677824
+    second: BlockSpriteSheet_242
+  - first:
+      213: 3192126613279042341
+    second: BlockSpriteSheet_243
+  - first:
+      213: -5368870447952717869
+    second: BlockSpriteSheet_244
+  - first:
+      213: -5249809296851294792
+    second: BlockSpriteSheet_245
+  - first:
+      213: 3411917968091403566
+    second: BlockSpriteSheet_246
+  - first:
+      213: 7782409416039548615
+    second: BlockSpriteSheet_247
+  - first:
+      213: -2113265846864223464
+    second: BlockSpriteSheet_248
+  - first:
+      213: -5282293114235719878
+    second: BlockSpriteSheet_249
+  - first:
+      213: -9098210862795763792
+    second: BlockSpriteSheet_250
+  - first:
+      213: 8168391905778027289
+    second: BlockSpriteSheet_251
+  - first:
+      213: 333037929453259964
+    second: BlockSpriteSheet_252
+  - first:
+      213: -5910174275228734157
+    second: BlockSpriteSheet_253
+  - first:
+      213: 7067545213323128096
+    second: BlockSpriteSheet_254
+  - first:
+      213: 8058378599795457423
+    second: BlockSpriteSheet_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlockSpriteSheet_000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9276858a48937f2a0800000000000000
+      internalID: -6703826278394861783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_001
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8206aa9c5c46ae50800000000000000
+      internalID: 6820222646314467982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_002
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600d6fb6af819fd30800000000000000
+      internalID: 4465627969346785286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_003
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec85177f69c2d02b0800000000000000
+      internalID: -5616784133353023282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_004
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bee3f99ef254af0800000000000000
+      internalID: -412871110388946073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_005
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d83ce11dfc19370800000000000000
+      internalID: 8327665683056004438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_006
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb4e02558d590ac0800000000000000
+      internalID: -3888473976069010509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_007
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1c5e7a2d10d18b0800000000000000
+      internalID: -5179981992134589959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_008
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a9d9b39c6e33400800000000000000
+      internalID: 302839351926954555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_009
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1053897f25a6d2e0800000000000000
+      internalID: -2101310552801062886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_010
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde5284342e5c6980800000000000000
+      internalID: -8544350883435880737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_011
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29228bad4e234240800000000000000
+      internalID: 4774710941067651373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_012
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d87429c00ef53b0800000000000000
+      internalID: -5521448273534546589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_013
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d235ee49d9e7d7a90800000000000000
+      internalID: -7314551004506205395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_014
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7625038e3fcaeb110800000000000000
+      internalID: 1278649507792310887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_015
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 75
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da321dbf282eb8b00800000000000000
+      internalID: 832007608378401709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_016
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e072df3139204de0800000000000000
+      internalID: -1351034596710256411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_017
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fdf3645b1e32140800000000000000
+      internalID: 4693843405334110048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_018
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007a3fb22d1221180800000000000000
+      internalID: -9146210706671819008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_019
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13981cb0880ccbc80800000000000000
+      internalID: -8305551922232719055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_020
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c6db52a4c536070800000000000000
+      internalID: 8098418028472790020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_021
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cce8cc47429f450800000000000000
+      internalID: 6122965252453616747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_022
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3444d449d06eb10e0800000000000000
+      internalID: -2297990238845451197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_023
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75443577903bb9f50800000000000000
+      internalID: 6889296908231328855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_024
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e60933271d8c8eb0800000000000000
+      internalID: -4716239579249047836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_025
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3a2e033b4ad4b00800000000000000
+      internalID: 814488197150188449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_026
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4067faa1ded05cbd0800000000000000
+      internalID: -2610665096985217532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_027
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab831815089987170800000000000000
+      internalID: 8176453899893422266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_028
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac3c843cd8c269f0800000000000000
+      internalID: -476597762447885141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_029
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c59d0349d119a420800000000000000
+      internalID: 2641662281260045767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_030
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70965546cd7fc1da0800000000000000
+      internalID: -5972626479851935481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_031
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 70
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7739bd547b3adab10800000000000000
+      internalID: 1994430217541358455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_032
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213c115ae08dfe150800000000000000
+      internalID: 5904175193916556050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_033
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfecfc7ce6a9a26a0800000000000000
+      internalID: -6473191713802301701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_034
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e416f7d31b65c6000800000000000000
+      internalID: 30494616725709134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_035
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097f598c873381780800000000000000
+      internalID: -8712156885293860976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_036
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389102e7f85625260800000000000000
+      internalID: 7084836830777973123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_037
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096af8f285a242930800000000000000
+      internalID: 4117462517566908048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_038
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127f62a5b239562a0800000000000000
+      internalID: -6744823052512069855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_039
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b677dee83f19b460800000000000000
+      internalID: 7257866603869992626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_040
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d5d5b76b519090800000000000000
+      internalID: -8029536159634433753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_041
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d6d4020837cf580800000000000000
+      internalID: -8792025378399097588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_042
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4fd9aea95b6e170800000000000000
+      internalID: 8207447047895119065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_043
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b9aa6c2cad40210800000000000000
+      internalID: 1298403122681125668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_044
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a905e5ef1f3f6900800000000000000
+      internalID: 679831474989762979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_045
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39ccb15c9fb27890800000000000000
+      internalID: -7461690954492360386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_046
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186bc73f81651b790800000000000000
+      internalID: -7516131637940406655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_047
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 65
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de361d45241db360800000000000000
+      internalID: 7186922730792828629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_048
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5e4de1e2019a340800000000000000
+      internalID: 4875445861877081550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_049
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f6f65511fc1be80800000000000000
+      internalID: -8164516976091238609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_050
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8804ea910cbb1e130800000000000000
+      internalID: 3594360411357331592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_051
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4efa5763c99bd20800000000000000
+      internalID: 3294836360114857155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_052
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd8a79dc405554b0800000000000000
+      internalID: -5452363482865693192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_053
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a185079c854508530800000000000000
+      internalID: 3855174021342582810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_054
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb333eac49fced70800000000000000
+      internalID: 9073901456980130757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_055
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08251afd308be2f50800000000000000
+      internalID: 6858621609308148352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_056
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e9614e98066df50800000000000000
+      internalID: 6905813223972707880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_057
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a770a7489ed8b0e40800000000000000
+      internalID: 5623744593791682426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_058
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c00f2b251a32280800000000000000
+      internalID: -9069227848032580490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_059
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf02a60d6de6afc0800000000000000
+      internalID: -3483836209205997647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_060
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d090f4cbf34ddd0800000000000000
+      internalID: -2462273018252423887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_061
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd75c152c1ac330800000000000000
+      internalID: 3731826186944764936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_062
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bd964a5979849e0800000000000000
+      internalID: -1636891795584853170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_063
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 60
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082641c76b5501e30800000000000000
+      internalID: 4472168672233022080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_064
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80abf2af776f96c50800000000000000
+      internalID: 6659124519202961928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_065
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f44254e1431b110800000000000000
+      internalID: 1274857474136231834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_066
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7817d5124bd9dc9b0800000000000000
+      internalID: -5058213409487752825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_067
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3865b6af6edf643f0800000000000000
+      internalID: -916766305637673341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_068
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd3c11e1a38e39f0800000000000000
+      internalID: -486806978419737136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_069
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7d632fafa1b9e00800000000000000
+      internalID: 1052464603028969434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_070
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c86dabf0c5bc59e0800000000000000
+      internalID: -1631229124554168123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_071
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293fda2bf0bca0f20800000000000000
+      internalID: 3389744937832412050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_072
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705561a38ee9b53e0800000000000000
+      internalID: -2063881283975097081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_073
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513591e07c76e43c0800000000000000
+      internalID: -4373444083497479403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_074
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd13707234aa098a0800000000000000
+      internalID: -6300348673297010213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_075
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6fa6f0956e8f330800000000000000
+      internalID: 3744996360343713515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_076
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a688c0124077270800000000000000
+      internalID: 8248065782543051353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_077
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca1aae0eceed7600800000000000000
+      internalID: 467792505093102281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_078
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cb841849bcdcdc0800000000000000
+      internalID: -3617011087024014302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_079
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 55
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7751bf3c6d426d0800000000000000
+      internalID: -3016049713211934733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_080
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b361a140effb92460800000000000000
+      internalID: 7217510975549347387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_081
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c960fd91042625c50800000000000000
+      internalID: 6652487627031119516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_082
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeb52d3c52996bb0800000000000000
+      internalID: -4942258191201878308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_083
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050b37df87562b140800000000000000
+      internalID: 4733957728642510928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_084
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b749bf7de1b2f73e0800000000000000
+      internalID: -2053875493585054597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_085
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a41f8dc5dc31ee0800000000000000
+      internalID: -1291462869464823201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_086
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2568880d6fd0d240800000000000000
+      internalID: 4814593661046646063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_087
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d2e03706bce2c30800000000000000
+      internalID: 4336627106311974262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_088
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5082df49353ecb8b0800000000000000
+      internalID: -5134979526987798523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_089
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9c109f5cce35ef0800000000000000
+      internalID: -120492429978514949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_090
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9a7780286ef0e70800000000000000
+      internalID: 9083732419591776766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_091
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af3c9eff84a8f5d0800000000000000
+      internalID: -3028489811047727197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_092
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fc4d76b3c6623d0800000000000000
+      internalID: -3231776680190881952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_093
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa54fa6a6a65f6c80800000000000000
+      internalID: -8327341912223693398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_094
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a12bd4914665900800000000000000
+      internalID: 672835254178945550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_095
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27a2d430d84c4260800000000000000
+      internalID: 7083116373023565613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_096
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4e8d50a8ceb6f80800000000000000
+      internalID: -8112130226230074197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_097
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60e11956c5464180800000000000000
+      internalID: -9131534476246917012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_098
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e74bf973b1e0cc0800000000000000
+      internalID: -3743024314581746173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_099
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de945c74c88764f0800000000000000
+      internalID: -835548828373049640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b883634a1efd7e0800000000000000
+      internalID: -1738422835741160652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe330d514ef21f860800000000000000
+      internalID: 7561877905996788719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c7e4c8148a78490800000000000000
+      internalID: -7744036034759984125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923d6cb160da26bf0800000000000000
+      internalID: -332513180724571351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80a78423b2375750800000000000000
+      internalID: 6293554749266960522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c69c4363abe9930800000000000000
+      internalID: 4151960648458792020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a4b51ce1bcb0d70800000000000000
+      internalID: 9010518812438252098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6cfadfd6af4ce60800000000000000
+      internalID: 7981779789921896175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2338c6bc5ccf190e0800000000000000
+      internalID: -2264751211139005646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471b448fc7c677a50800000000000000
+      internalID: 6518798269639078260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f2864b86681a100800000000000000
+      internalID: 117522849549791013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 45
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e86986713f69f60800000000000000
+      internalID: 8040881466581094027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dddd773e87dd250800000000000000
+      internalID: 5971061599327083837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adfb3ac20aee0dc0800000000000000
+      internalID: -3670739348556612189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4d6d912f54fd580800000000000000
+      internalID: -8800238240740748067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9a0244f07701340800000000000000
+      internalID: 4832493307619748319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc47694d8110aa60800000000000000
+      internalID: 7683160262813633733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe643dca40e1d50800000000000000
+      internalID: 6709805635154145115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456663d5a63534ec0800000000000000
+      internalID: -3583929162161297836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec9ac8909ac54580800000000000000
+      internalID: -8843439570884584215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1db53d3cb8974720800000000000000
+      internalID: 2830398825073851678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6122a49544555aa30800000000000000
+      internalID: 4225877577401246230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6efe6e5fc6fdfd80800000000000000
+      internalID: -8215138774750921110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed0aaa91f1312bf0800000000000000
+      internalID: -350944382206472722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f296f535e54fdc00800000000000000
+      internalID: 927536899016790768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e077a7f20d8e10de0800000000000000
+      internalID: -1368556830896523506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158346fd831e65490800000000000000
+      internalID: -7757765673716795311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29342bd9fab213070800000000000000
+      internalID: 8084290839371727762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add78c7d17cd22cb0800000000000000
+      internalID: -4890103863861281318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98778135384883900800000000000000
+      internalID: 664426644606842761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c978c0d573970cf0800000000000000
+      internalID: -286097917091481145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6311790c03466c790800000000000000
+      internalID: -7510205168041389770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4164574e857de0a0800000000000000
+      internalID: -6850690204218138292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dd47e6cfebb2e60800000000000000
+      internalID: 7938648759564819810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062ec6d3cea317fa0800000000000000
+      internalID: -5804793658386619808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad722b28b4ec5f6c0800000000000000
+      internalID: -4110152261195126822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e67e74de82d0860800000000000000
+      internalID: 7497693954220453445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d17b5032ab72cd0800000000000000
+      internalID: -2582891201691181706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416210bb8e3e3bd10800000000000000
+      internalID: 2140304836640450068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2784fbe884469c0c0800000000000000
+      internalID: -4554999285313222542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68186046732dacdd0800000000000000
+      internalID: -2464926710688743034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b3d5073e5bd0260800000000000000
+      internalID: 7065503378861538157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0a07b9bf3275580800000000000000
+      internalID: -8838556180139695921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397ca0a8c5b3da340800000000000000
+      internalID: 4876619240151107475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cea24fec4288e460800000000000000
+      internalID: 7271204865332915912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d5116c307c6800800000000000000
+      internalID: 606983454417344413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d750fd989cbe4c60800000000000000
+      internalID: 7804382567950473174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb7020c5141ecc00800000000000000
+      internalID: 922697057307753455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f56eeee68fa7cc0800000000000000
+      internalID: -3712381787475386569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4020f1d58a0174570800000000000000
+      internalID: 8450741541086888452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ba1e5b13aa14910800000000000000
+      internalID: 1819922854915976038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f771622c7329ac0800000000000000
+      internalID: -3849953424446095499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d126a7a02250df580800000000000000
+      internalID: -8791865253794520547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1a995c98091ef80800000000000000
+      internalID: -8079017335125859874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44974af577df87210800000000000000
+      internalID: 1331092379035531588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7f091a97614df30800000000000000
+      internalID: 4599325831109605325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19189a4d4aa9d7260800000000000000
+      internalID: 7096998620538962321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc1de6ac9b3a8670800000000000000
+      internalID: 8541705187263061240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eb0953efa9f2960800000000000000
+      internalID: 7579447114498883079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 30
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d1846c3aa017cd0800000000000000
+      internalID: -2562255014474539696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989c21ad30f9199b0800000000000000
+      internalID: -5075100466177455735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af78e2f803153ffb0800000000000000
+      internalID: -4615255924122155014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbe76a3402ce7f60800000000000000
+      internalID: 8034072108691090420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827a97d360d913760800000000000000
+      internalID: 7435897109892146984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90749215b6c684e20800000000000000
+      internalID: 3335034732246812425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59138a4910a4f8f30800000000000000
+      internalID: 4579960716708557205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22644e176f0ffbdc0800000000000000
+      internalID: -3620910634119182814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945088436779b9db0800000000000000
+      internalID: -4784063645207755447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af98e7b1ddd765d70800000000000000
+      internalID: 9031544491340630522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8c47955ef5a76e0800000000000000
+      internalID: -1839052059174451020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f10b1f17bae35d0800000000000000
+      internalID: -3080836589200335070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95d183f00d48a180800000000000000
+      internalID: -9103941980248746595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063f8831ae4926da0800000000000000
+      internalID: -5953032024359373984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff23f2a49f4a9ba0800000000000000
+      internalID: -6081460847002832906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727e0dd236218e7a0800000000000000
+      internalID: -6347803457598986457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 25
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6daf0e01e5f94e0800000000000000
+      internalID: -1972754685177964805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5231ef79b596fe50800000000000000
+      internalID: 6842821307783000668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bada61553d4c6740800000000000000
+      internalID: 5146573365572197042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364fb6cb6c70efc10800000000000000
+      internalID: 2089115827292599395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb2e986121377fb0800000000000000
+      internalID: -4650194070677869606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4773496d9c5d45bc0800000000000000
+      internalID: -3795173523101304972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b8fe6a8bb621c50800000000000000
+      internalID: 6634483641889033024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1014bc30ca3fbf0800000000000000
+      internalID: -291700418554035772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830a3a500ac29740800000000000000
+      internalID: 5157406626155201417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7cfb6e2b35f8930800000000000000
+      internalID: 4147625809672128511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa358896ccebedfd0800000000000000
+      internalID: -2315203373268708438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61fa158a35a37260800000000000000
+      internalID: 7094195508798484844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eee38bad02c0280800000000000000
+      internalID: -9075843025292300742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbb1feb8dfc422c0800000000000000
+      internalID: -4457209201366549581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdd64e012dd47330800000000000000
+      internalID: 3707831527275945468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb2a06aacc198dc0800000000000000
+      internalID: -3636343567430308872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 20
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408a8bb0a4e4b56e0800000000000000
+      internalID: -1847797142174259196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae0ecf461d5b9800800000000000000
+      internalID: 620191724103143072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91f1a71c5db004e0800000000000000
+      internalID: -2017404429830852194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6fc9493dd8e0330800000000000000
+      internalID: 3679033885479204542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12905038d35e4be30800000000000000
+      internalID: 4518488378513361185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba58b27a5815c7f0800000000000000
+      internalID: -593040999178544462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0963bd6f01d5564a0800000000000000
+      internalID: -6600767351399172464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe375ac580a0e4f0800000000000000
+      internalID: -801464237186138371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b8ddc983db052a0800000000000000
+      internalID: -6750687790580790478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7d67b226f3f8e10800000000000000
+      internalID: 2202048433676015576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2602f36a829f420800000000000000
+      internalID: 2664205349055128227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_202
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9f79773e1044980800000000000000
+      internalID: -8555711315621447185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_203
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b655b5618cd84820800000000000000
+      internalID: 2902812408155559604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_204
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3a7a2e847917c70800000000000000
+      internalID: 8967114672367444949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_205
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d7c11c44989e1f0800000000000000
+      internalID: -1015129312604684949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_206
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcc148b849c58380800000000000000
+      internalID: -8969541768672326473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_207
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 15
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a4f8da9832e390800000000000000
+      internalID: -7790602167681505194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd18ab70ab1b55f90800000000000000
+      internalID: -6965465836106907173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_209
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce540ebb2147d10800000000000000
+      internalID: 2122341922529209521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_210
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1d6287c32b88840800000000000000
+      internalID: 5226623340347052524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_211
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0422d2fe7a430fc50800000000000000
+      internalID: 6696910541776822848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_212
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5105e23b673ea1430800000000000000
+      internalID: 3754563338318532629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_213
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4273c8e05c24180800000000000000
+      internalID: -9132520428081306421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_214
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da05685b52dcb880800000000000000
+      internalID: -8593762699162875178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_215
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116373dde89862260800000000000000
+      internalID: 7072491511521687057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_216
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b057c35b2f82c60800000000000000
+      internalID: 7793746015381949301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_217
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2a190506ae39030800000000000000
+      internalID: 3500399034786489034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_218
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8713e8c02a046f20800000000000000
+      internalID: 3414865553379235726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_219
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3a80dc0a35799b0800000000000000
+      internalID: -5073494505109806134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_220
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a46c159ea85e2020800000000000000
+      internalID: 2318888364991603875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_221
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ccb45c706d4e50800000000000000
+      internalID: 6795193499885816307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_222
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a241aebaa7682ef0800000000000000
+      internalID: -132742205967088988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_223
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 10
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790d021b69dd40da0800000000000000
+      internalID: -5979410765954625385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fea7d0677054a30800000000000000
+      internalID: 4198770431206551424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_225
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c7892f9d11bc80800000000000000
+      internalID: -8308827268088084328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_226
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9928e68824d7a4d0800000000000000
+      internalID: -3123294546031007331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_227
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35143c3a50b8ca80800000000000000
+      internalID: -8446307199529773762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_228
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f8605664f46bde0800000000000000
+      internalID: -1317778677198057708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_229
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e92259069d33c00800000000000000
+      internalID: 879285361109540486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_230
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281a77549cc8c2730800000000000000
+      internalID: 3975707367143088514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_231
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c781113393cde650800000000000000
+      internalID: 6263877693693069253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_232
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a727f898539d2f0800000000000000
+      internalID: -947667381651342738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_233
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510496ce14ff0f9f0800000000000000
+      internalID: -436568505250660331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_234
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0a1405bd4877c0800000000000000
+      internalID: -4073420423103378305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_235
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9fd92f412b0a430800000000000000
+      internalID: 3792226689285487094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_236
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e5e4558b36b86e0800000000000000
+      internalID: -1834262779867013555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_237
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a98b4ba795f1610800000000000000
+      internalID: 1594091176665324184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_238
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad0f9df99cbb73e0800000000000000
+      internalID: -2054841435393421911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_239
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 5
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cf5cf37de4ab700800000000000000
+      internalID: 556844190328552482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2fbf9bddf93e9a0800000000000000
+      internalID: -6204940086929526040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_241
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d35d23e33805640800000000000000
+      internalID: 5066693883955854667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_242
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6e286bd2c8d7230800000000000000
+      internalID: 3638218201948677824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_243
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b619efd36bc4c20800000000000000
+      internalID: 3192126613279042341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_244
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d79fa8e5c0fd75b0800000000000000
+      internalID: -5368870447952717869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_245
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5a2aa524ee427b0800000000000000
+      internalID: -5249809296851294792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_246
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e255cda9051995f20800000000000000
+      internalID: 3411917968091403566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_247
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c641b3812ca00c60800000000000000
+      internalID: 7782409416039548615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_248
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81361b9a8eb2ca2e0800000000000000
+      internalID: -2113265846864223464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_249
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fec7e366681b6b0800000000000000
+      internalID: -5282293114235719878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_250
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf4577bc69acb180800000000000000
+      internalID: -9098210862795763792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_251
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b431a0925fb5170800000000000000
+      internalID: 8168391905778027289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_252
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc0bc97b303f9400800000000000000
+      internalID: 333037929453259964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_253
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33de6546fc7dafda0800000000000000
+      internalID: -5910174275228734157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_254
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d23221de6f41260800000000000000
+      internalID: 7067545213323128096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlockSpriteSheet_255
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dfa6234ac15df60800000000000000
+      internalID: 8058378599795457423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BlockSpriteSheet_056: 6905813223972707880
+      BlockSpriteSheet_126: -7757765673716795311
+      BlockSpriteSheet_125: -1368556830896523506
+      BlockSpriteSheet_123: -350944382206472722
+      BlockSpriteSheet_035: -8712156885293860976
+      BlockSpriteSheet_150: 1819922854915976038
+      BlockSpriteSheet_207: -7790602167681505194
+      BlockSpriteSheet_243: 3192126613279042341
+      BlockSpriteSheet_038: -6744823052512069855
+      BlockSpriteSheet_110: 117522849549791013
+      BlockSpriteSheet_068: -486806978419737136
+      BlockSpriteSheet_055: 6858621609308148352
+      BlockSpriteSheet_245: -5249809296851294792
+      BlockSpriteSheet_163: 7435897109892146984
+      BlockSpriteSheet_022: -2297990238845451197
+      BlockSpriteSheet_175: -1972754685177964805
+      BlockSpriteSheet_215: 7072491511521687057
+      BlockSpriteSheet_073: -4373444083497479403
+      BlockSpriteSheet_179: -4650194070677869606
+      BlockSpriteSheet_071: 3389744937832412050
+      BlockSpriteSheet_087: 4336627106311974262
+      BlockSpriteSheet_136: 7497693954220453445
+      BlockSpriteSheet_180: -3795173523101304972
+      BlockSpriteSheet_122: -8215138774750921110
+      BlockSpriteSheet_003: -5616784133353023282
+      BlockSpriteSheet_083: 4733957728642510928
+      BlockSpriteSheet_091: -3028489811047727197
+      BlockSpriteSheet_142: -8838556180139695921
+      BlockSpriteSheet_093: -8327341912223693398
+      BlockSpriteSheet_042: 8207447047895119065
+      BlockSpriteSheet_058: -9069227848032580490
+      BlockSpriteSheet_088: -5134979526987798523
+      BlockSpriteSheet_069: 1052464603028969434
+      BlockSpriteSheet_032: 5904175193916556050
+      BlockSpriteSheet_181: 6634483641889033024
+      BlockSpriteSheet_228: -1317778677198057708
+      BlockSpriteSheet_211: 6696910541776822848
+      BlockSpriteSheet_017: 4693843405334110048
+      BlockSpriteSheet_006: -3888473976069010509
+      BlockSpriteSheet_096: -8112130226230074197
+      BlockSpriteSheet_165: 4579960716708557205
+      BlockSpriteSheet_246: 3411917968091403566
+      BlockSpriteSheet_185: -2315203373268708438
+      BlockSpriteSheet_131: -7510205168041389770
+      BlockSpriteSheet_188: -4457209201366549581
+      BlockSpriteSheet_232: -947667381651342738
+      BlockSpriteSheet_239: 556844190328552482
+      BlockSpriteSheet_205: -1015129312604684949
+      BlockSpriteSheet_092: -3231776680190881952
+      BlockSpriteSheet_027: 8176453899893422266
+      BlockSpriteSheet_103: -332513180724571351
+      BlockSpriteSheet_253: -5910174275228734157
+      BlockSpriteSheet_237: 1594091176665324184
+      BlockSpriteSheet_212: 3754563338318532629
+      BlockSpriteSheet_115: 4832493307619748319
+      BlockSpriteSheet_077: 467792505093102281
+      BlockSpriteSheet_159: -2562255014474539696
+      BlockSpriteSheet_046: -7516131637940406655
+      BlockSpriteSheet_085: -1291462869464823201
+      BlockSpriteSheet_255: 8058378599795457423
+      BlockSpriteSheet_105: 4151960648458792020
+      BlockSpriteSheet_020: 8098418028472790020
+      BlockSpriteSheet_216: 7793746015381949301
+      BlockSpriteSheet_162: 8034072108691090420
+      BlockSpriteSheet_061: 3731826186944764936
+      BlockSpriteSheet_062: -1636891795584853170
+      BlockSpriteSheet_051: 3294836360114857155
+      BlockSpriteSheet_082: -4942258191201878308
+      BlockSpriteSheet_214: -8593762699162875178
+      BlockSpriteSheet_128: -4890103863861281318
+      BlockSpriteSheet_152: -8791865253794520547
+      BlockSpriteSheet_190: -3636343567430308872
+      BlockSpriteSheet_059: -3483836209205997647
+      BlockSpriteSheet_213: -9132520428081306421
+      BlockSpriteSheet_233: -436568505250660331
+      BlockSpriteSheet_050: 3594360411357331592
+      BlockSpriteSheet_247: 7782409416039548615
+      BlockSpriteSheet_048: 4875445861877081550
+      BlockSpriteSheet_191: -1847797142174259196
+      BlockSpriteSheet_155: 4599325831109605325
+      BlockSpriteSheet_193: -2017404429830852194
+      BlockSpriteSheet_192: 620191724103143072
+      BlockSpriteSheet_052: -5452363482865693192
+      BlockSpriteSheet_223: -5979410765954625385
+      BlockSpriteSheet_039: 7257866603869992626
+      BlockSpriteSheet_195: 4518488378513361185
+      BlockSpriteSheet_009: -2101310552801062886
+      BlockSpriteSheet_248: -2113265846864223464
+      BlockSpriteSheet_005: 8327665683056004438
+      BlockSpriteSheet_106: 9010518812438252098
+      BlockSpriteSheet_168: 9031544491340630522
+      BlockSpriteSheet_119: -8843439570884584215
+      BlockSpriteSheet_113: -3670739348556612189
+      BlockSpriteSheet_170: -3080836589200335070
+      BlockSpriteSheet_016: -1351034596710256411
+      BlockSpriteSheet_234: -4073420423103378305
+      BlockSpriteSheet_169: -1839052059174451020
+      BlockSpriteSheet_063: 4472168672233022080
+      BlockSpriteSheet_094: 672835254178945550
+      BlockSpriteSheet_254: 7067545213323128096
+      BlockSpriteSheet_204: 8967114672367444949
+      BlockSpriteSheet_001: 6820222646314467982
+      BlockSpriteSheet_148: -3712381787475386569
+      BlockSpriteSheet_230: 3975707367143088514
+      BlockSpriteSheet_139: -4554999285313222542
+      BlockSpriteSheet_127: 8084290839371727762
+      BlockSpriteSheet_144: 7271204865332915912
+      BlockSpriteSheet_101: 7561877905996788719
+      BlockSpriteSheet_164: 3335034732246812425
+      BlockSpriteSheet_249: -5282293114235719878
+      BlockSpriteSheet_235: 3792226689285487094
+      BlockSpriteSheet_161: -4615255924122155014
+      BlockSpriteSheet_074: -6300348673297010213
+      BlockSpriteSheet_117: 6709805635154145115
+      BlockSpriteSheet_225: -8308827268088084328
+      BlockSpriteSheet_171: -9103941980248746595
+      BlockSpriteSheet_157: 8541705187263061240
+      BlockSpriteSheet_220: 2318888364991603875
+      BlockSpriteSheet_241: 5066693883955854667
+      BlockSpriteSheet_118: -3583929162161297836
+      BlockSpriteSheet_034: 30494616725709134
+      BlockSpriteSheet_160: -5075100466177455735
+      BlockSpriteSheet_206: -8969541768672326473
+      BlockSpriteSheet_143: 4876619240151107475
+      BlockSpriteSheet_030: -5972626479851935481
+      BlockSpriteSheet_135: -4110152261195126822
+      BlockSpriteSheet_053: 3855174021342582810
+      BlockSpriteSheet_019: -8305551922232719055
+      BlockSpriteSheet_102: -7744036034759984125
+      BlockSpriteSheet_084: -2053875493585054597
+      BlockSpriteSheet_174: -6347803457598986457
+      BlockSpriteSheet_226: -3123294546031007331
+      BlockSpriteSheet_138: 2140304836640450068
+      BlockSpriteSheet_146: 7804382567950473174
+      BlockSpriteSheet_043: 1298403122681125668
+      BlockSpriteSheet_184: 4147625809672128511
+      BlockSpriteSheet_137: -2582891201691181706
+      BlockSpriteSheet_178: 2089115827292599395
+      BlockSpriteSheet_120: 2830398825073851678
+      BlockSpriteSheet_145: 606983454417344413
+      BlockSpriteSheet_224: 4198770431206551424
+      BlockSpriteSheet_200: 2202048433676015576
+      BlockSpriteSheet_075: 3744996360343713515
+      BlockSpriteSheet_208: -6965465836106907173
+      BlockSpriteSheet_196: -593040999178544462
+      BlockSpriteSheet_141: 7065503378861538157
+      BlockSpriteSheet_140: -2464926710688743034
+      BlockSpriteSheet_095: 7083116373023565613
+      BlockSpriteSheet_158: 7579447114498883079
+      BlockSpriteSheet_210: 5226623340347052524
+      BlockSpriteSheet_007: -5179981992134589959
+      BlockSpriteSheet_081: 6652487627031119516
+      BlockSpriteSheet_130: -286097917091481145
+      BlockSpriteSheet_011: 4774710941067651373
+      BlockSpriteSheet_231: 6263877693693069253
+      BlockSpriteSheet_218: 3414865553379235726
+      BlockSpriteSheet_194: 3679033885479204542
+      BlockSpriteSheet_015: 832007608378401709
+      BlockSpriteSheet_033: -6473191713802301701
+      BlockSpriteSheet_004: -412871110388946073
+      BlockSpriteSheet_018: -9146210706671819008
+      BlockSpriteSheet_008: 302839351926954555
+      BlockSpriteSheet_221: 6795193499885816307
+      BlockSpriteSheet_080: 7217510975549347387
+      BlockSpriteSheet_153: -8079017335125859874
+      BlockSpriteSheet_219: -5073494505109806134
+      BlockSpriteSheet_240: -6204940086929526040
+      BlockSpriteSheet_002: 4465627969346785286
+      BlockSpriteSheet_129: 664426644606842761
+      BlockSpriteSheet_133: 7938648759564819810
+      BlockSpriteSheet_189: 3707831527275945468
+      BlockSpriteSheet_197: -6600767351399172464
+      BlockSpriteSheet_070: -1631229124554168123
+      BlockSpriteSheet_203: 2902812408155559604
+      BlockSpriteSheet_098: -3743024314581746173
+      BlockSpriteSheet_209: 2122341922529209521
+      BlockSpriteSheet_078: -3617011087024014302
+      BlockSpriteSheet_044: 679831474989762979
+      BlockSpriteSheet_229: 879285361109540486
+      BlockSpriteSheet_024: -4716239579249047836
+      BlockSpriteSheet_251: 8168391905778027289
+      BlockSpriteSheet_065: 1274857474136231834
+      BlockSpriteSheet_090: 9083732419591776766
+      BlockSpriteSheet_021: 6122965252453616747
+      BlockSpriteSheet_149: 8450741541086888452
+      BlockSpriteSheet_057: 5623744593791682426
+      BlockSpriteSheet_013: -7314551004506205395
+      BlockSpriteSheet_177: 5146573365572197042
+      BlockSpriteSheet_198: -801464237186138371
+      BlockSpriteSheet_151: -3849953424446095499
+      BlockSpriteSheet_036: 7084836830777973123
+      BlockSpriteSheet_227: -8446307199529773762
+      BlockSpriteSheet_201: 2664205349055128227
+      BlockSpriteSheet_014: 1278649507792310887
+      BlockSpriteSheet_124: 927536899016790768
+      BlockSpriteSheet_217: 3500399034786489034
+      BlockSpriteSheet_028: -476597762447885141
+      BlockSpriteSheet_072: -2063881283975097081
+      BlockSpriteSheet_114: -8800238240740748067
+      BlockSpriteSheet_109: 6518798269639078260
+      BlockSpriteSheet_156: 7096998620538962321
+      BlockSpriteSheet_025: 814488197150188449
+      BlockSpriteSheet_116: 7683160262813633733
+      BlockSpriteSheet_134: -5804793658386619808
+      BlockSpriteSheet_026: -2610665096985217532
+      BlockSpriteSheet_173: -6081460847002832906
+      BlockSpriteSheet_108: -2264751211139005646
+      BlockSpriteSheet_187: -9075843025292300742
+      BlockSpriteSheet_000: -6703826278394861783
+      BlockSpriteSheet_147: 922697057307753455
+      BlockSpriteSheet_176: 6842821307783000668
+      BlockSpriteSheet_121: 4225877577401246230
+      BlockSpriteSheet_244: -5368870447952717869
+      BlockSpriteSheet_047: 7186922730792828629
+      BlockSpriteSheet_104: 6293554749266960522
+      BlockSpriteSheet_186: 7094195508798484844
+      BlockSpriteSheet_107: 7981779789921896175
+      BlockSpriteSheet_183: 5157406626155201417
+      BlockSpriteSheet_097: -9131534476246917012
+      BlockSpriteSheet_250: -9098210862795763792
+      BlockSpriteSheet_202: -8555711315621447185
+      BlockSpriteSheet_029: 2641662281260045767
+      BlockSpriteSheet_067: -916766305637673341
+      BlockSpriteSheet_064: 6659124519202961928
+      BlockSpriteSheet_238: -2054841435393421911
+      BlockSpriteSheet_031: 1994430217541358455
+      BlockSpriteSheet_012: -5521448273534546589
+      BlockSpriteSheet_040: -8029536159634433753
+      BlockSpriteSheet_054: 9073901456980130757
+      BlockSpriteSheet_060: -2462273018252423887
+      BlockSpriteSheet_167: -4784063645207755447
+      BlockSpriteSheet_041: -8792025378399097588
+      BlockSpriteSheet_236: -1834262779867013555
+      BlockSpriteSheet_100: -1738422835741160652
+      BlockSpriteSheet_037: 4117462517566908048
+      BlockSpriteSheet_089: -120492429978514949
+      BlockSpriteSheet_111: 8040881466581094027
+      BlockSpriteSheet_242: 3638218201948677824
+      BlockSpriteSheet_182: -291700418554035772
+      BlockSpriteSheet_172: -5953032024359373984
+      BlockSpriteSheet_222: -132742205967088988
+      BlockSpriteSheet_079: -3016049713211934733
+      BlockSpriteSheet_132: -6850690204218138292
+      BlockSpriteSheet_023: 6889296908231328855
+      BlockSpriteSheet_049: -8164516976091238609
+      BlockSpriteSheet_076: 8248065782543051353
+      BlockSpriteSheet_066: -5058213409487752825
+      BlockSpriteSheet_086: 4814593661046646063
+      BlockSpriteSheet_010: -8544350883435880737
+      BlockSpriteSheet_199: -6750687790580790478
+      BlockSpriteSheet_112: 5971061599327083837
+      BlockSpriteSheet_252: 333037929453259964
+      BlockSpriteSheet_099: -835548828373049640
+      BlockSpriteSheet_154: 1331092379035531588
+      BlockSpriteSheet_166: -3620910634119182814
+      BlockSpriteSheet_045: -7461690954492360386
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
