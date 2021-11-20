@@ -11,8 +11,8 @@ public class NodeGroup : MonoBehaviour
     [Header("Node Settings")]
     [SerializeField] Color energyColor = Color.red;
     [SerializeField] Vector2Int nodeGroupSize;
-    [SerializeField] float energyCount;
-    [SerializeField] [Range(0.0f, 1.0f)] float energyLevel;
+    [SerializeField] float energyCount = 100f;
+    [SerializeField] [Range(0.0f, 1.0f)] float energyLevel = 1.0f;
 
     static public Sprite[] sprites;
     static public float ppu;
@@ -22,6 +22,7 @@ public class NodeGroup : MonoBehaviour
 
     bool[,] nodes;
     float maxEnergyCount;
+    Vector2 unitScale; // This is the size of the NodeGroup in Unity units;
 
     private void Awake()
     {
@@ -43,6 +44,11 @@ public class NodeGroup : MonoBehaviour
         GenerateNodes();
     }
 
+    private void Update()
+    {
+        UpdateEnergyLevel();
+    }
+
     public void GenerateNodes()
     {
         // Destroy Existing Nodes
@@ -51,8 +57,8 @@ public class NodeGroup : MonoBehaviour
             Destroy(child.gameObject);
         }
 
-        // Sets the Max Energy. This is used for calculating the percentage full
-        maxEnergyCount = energyCount;
+        maxEnergyCount = energyCount / energyLevel;
+        unitScale = new Vector2(nodeGroupSize.x / (ppu * 0.2f), nodeGroupSize.y / (ppu * 0.2f));
 
         // This just populates the node group for testing
         nodes = new bool[nodeGroupSize.x, nodeGroupSize.y];
@@ -60,7 +66,7 @@ public class NodeGroup : MonoBehaviour
         {
             for (int y = 0; y < nodeGroupSize.y; y++)
             {
-                nodes[x, y] = !(Random.Range(0, 5) == 0);
+                nodes[x, y] = Random.Range(0, 5) != 0;
             }
         }
 
@@ -78,7 +84,7 @@ public class NodeGroup : MonoBehaviour
                 pos.x = x * 1 / (ppu * 0.2f);
                 pos.y = y * 1 / (ppu * 0.2f);
 
-                newNode.transform.localPosition = new Vector2(pos.x - ((nodeGroupSize.x - 1) / (ppu * 0.2f)) / 2f, pos.y - ((nodeGroupSize.y - 1) / (ppu * 0.2f)) / 2f);
+                newNode.transform.localPosition = new Vector2(pos.x - ((nodeGroupSize.x - 1) / (ppu * 0.2f)) * 0.5f, pos.y - ((nodeGroupSize.y - 1) / (ppu * 0.2f)) * 0.5f);
 
                 newNode.GetComponent<Node>().nodeGroup = this;
                 newNode.GetComponent<Node>().SetNodeTexture(x, y, nodeGroupSize, ref nodes);
@@ -87,13 +93,15 @@ public class NodeGroup : MonoBehaviour
             }
         }
 
-        // Setup Mask
-        mask.transform.localScale = new Vector3(nodeGroupSize.x / (ppu / 5), nodeGroupSize.y / (ppu / 5), 1);
+        // Setup Mask and Energy Count
+        UpdateEnergyLevel();
+    }
+
+    void UpdateEnergyLevel()
+    {
+        energyCount = maxEnergyCount * energyLevel;
+
+        mask.transform.localScale = new Vector3(unitScale.x, unitScale.y * energyLevel, 1);
+        mask.transform.localPosition = new Vector3(0, unitScale.y * 0.5f * energyLevel - unitScale.y * 0.5f, 0);
     }
 }
-
-// (0,0) = (-1.5, -1.5)
-// (1,1) = ( 0.0,  0.0)
-// (2,2) = ( 1.5,  1.5)
-
-// ((x / 2) * width) - (width / 2)

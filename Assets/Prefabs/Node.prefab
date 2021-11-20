@@ -131,6 +131,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nodeGroup: {fileID: 0}
+  spriteRenderer: {fileID: 8365594930225826614}
 --- !u!212 &8365594930225826614
 SpriteRenderer:
   m_ObjectHideFlags: 0

@@ -164,5 +164,5 @@ MonoBehaviour:
   node: {fileID: 6508494559617700198, guid: 715e0c4c2a0b2504ea937a758c7caa0c, type: 3}
   energyColor: {r: 1, g: 0, b: 0, a: 1}
   nodeGroupSize: {x: 1, y: 1}
-  energyCount: 0
-  energyLevel: 0
+  energyCount: 100
+  energyLevel: 1
