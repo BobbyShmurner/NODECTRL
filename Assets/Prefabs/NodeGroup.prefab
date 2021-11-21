@@ -161,7 +161,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteAtlas: {fileID: 4343727234628468602, guid: e4813d38949c5954b9db1c24967cda42, type: 2}
-  node: {fileID: 6508494559617700198, guid: 715e0c4c2a0b2504ea937a758c7caa0c, type: 3}
+  energyMaterial: {fileID: 2100000, guid: db10a52767df7924a9be02fcfeaff291, type: 2}
   energyColor: {r: 1, g: 0, b: 0, a: 1}
   nodeGroupSize: {x: 1, y: 1}
   energyCount: 100

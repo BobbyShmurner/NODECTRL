@@ -1,18 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Diagnostics;
 using UnityEngine;
 using UnityEngine.U2D;
 
 public class NodeGroup : MonoBehaviour
 {
     [SerializeField] SpriteAtlas spriteAtlas;
-    [SerializeField] GameObject node;
+    [SerializeField] Material energyMaterial;
 
     [Header("Node Settings")]
     [SerializeField] Color energyColor = Color.red;
     [SerializeField] Vector2Int nodeGroupSize;
     [SerializeField] float energyCount = 100f;
     [SerializeField] [Range(0.0f, 1.0f)] float energyLevel = 1.0f;
+
 
     static public Sprite[] sprites;
     static public float ppu;
@@ -41,20 +43,36 @@ public class NodeGroup : MonoBehaviour
 
     void Start()
     {
-        GenerateNodes();
+        // GenerateNodes(); This causes alot of lag on startup
     }
 
     private void Update()
     {
+        GenerateNodes();
         UpdateEnergyLevel();
     }
 
     public void GenerateNodes()
     {
-        // Destroy Existing Nodes
-        foreach (Transform child in nodesEmptyTrans)
+        /*Stopwatch sw = Stopwatch.StartNew();
+
+        long newObjectTicks = 0;
+        long nodePropTicks = 0;
+        long nodeTextureTicks = 0;
+        long nodeDestruction = 0;*/
+
+        // Release Existing Nodes
+        for (int i = 0; i < nodesEmptyTrans.childCount;)
         {
-            Destroy(child.gameObject);
+            // sw.Restart();
+
+            Transform childNode = nodesEmptyTrans.GetChild(0);
+
+            childNode.parent = null;
+            NodeManager.ReleaseNode(childNode.gameObject);
+
+            // sw.Stop();
+            // nodeDestruction += sw.ElapsedTicks;
         }
 
         maxEnergyCount = energyCount / energyLevel;
@@ -70,6 +88,9 @@ public class NodeGroup : MonoBehaviour
             }
         }
 
+        // Set Material Color
+        energyMaterial.SetColor("_Color", energyColor);
+
         // Create Nodes
         for (int x = 0; x < nodeGroupSize.x; x++)
         {
@@ -77,8 +98,15 @@ public class NodeGroup : MonoBehaviour
             {
                 if (!nodes[x, y]) continue;
 
-                GameObject newNode = Instantiate(node, nodesEmptyTrans);
+                // sw.Restart();
+
+                GameObject newNode = NodeManager.GetNode();
+                newNode.transform.parent = nodesEmptyTrans;
                 newNode.name = $"Node ({x}, {y})";
+
+                /*sw.Stop();
+                newObjectTicks += sw.ElapsedTicks;
+                sw.Restart();*/
 
                 Vector2 pos = new Vector2(0.5f, 0.5f);
                 pos.x = x * 1 / (ppu * 0.2f);
@@ -86,12 +114,22 @@ public class NodeGroup : MonoBehaviour
 
                 newNode.transform.localPosition = new Vector2(pos.x - ((nodeGroupSize.x - 1) / (ppu * 0.2f)) * 0.5f, pos.y - ((nodeGroupSize.y - 1) / (ppu * 0.2f)) * 0.5f);
 
-                newNode.GetComponent<Node>().nodeGroup = this;
-                newNode.GetComponent<Node>().SetNodeTexture(x, y, nodeGroupSize, ref nodes);
+                /*sw.Stop();
+                nodePropTicks += sw.ElapsedTicks;
+                sw.Restart();*/
 
-                newNode.transform.GetChild(0).GetComponent<SpriteRenderer>().material.SetColor("_Color", energyColor);
+                newNode.GetComponent<Node>().nodeGroup = this;
+                newNode.GetComponent<Node>().SetNodeTexture(x, y, nodeGroupSize, ref nodes, ref energyMaterial);
+
+                /*sw.Stop();
+                nodeTextureTicks += sw.ElapsedTicks;*/
             }
         }
+
+        // UnityEngine.Debug.Log($"Node Instantiation: Avg: {newObjectTicks / (nodeGroupSize.x * nodeGroupSize.y)} ticks, Total: {newObjectTicks}");
+        // UnityEngine.Debug.Log($"Texture Instantiation: Avg: {nodeTextureTicks / (nodeGroupSize.x * nodeGroupSize.y)} ticks, Total: {nodeTextureTicks}");
+        //UnityEngine.Debug.Log($"Property Instantiation: Avg: {nodePropTicks / (nodeGroupSize.x * nodeGroupSize.y)} ticks, Total: {nodePropTicks}");
+        //UnityEngine.Debug.Log($"Node Destruction: Avg: {nodeDestruction / (nodeGroupSize.x * nodeGroupSize.y)} ticks, Total: {nodeDestruction}");
 
         // Setup Mask and Energy Count
         UpdateEnergyLevel();
