@@ -29,7 +29,27 @@ public class Node : MonoBehaviour
     [SerializeField] SpriteRenderer spriteRenderer;
     [SerializeField] SpriteRenderer bgSpriteRenderer;
 
-    public void SetNodeTexture(int nodeX, int nodeY, Vector2Int nodeGroupSize, ref bool[,] nodes, ref Material bgMat)
+    bool hasSetTexture = false;
+
+    // These will only be used if the texture must be computed after initialisation
+    int _nodeX;
+    int _nodeY;
+    Vector2Int _nodeGroupSize;
+    bool[,] _nodes;
+    Material _bgMat;
+
+    public void SetVars(int nodeX, int nodeY, Vector2Int nodeGroupSize, ref bool[,] nodes, ref Material bgMat)
+    {
+        _nodeX = nodeX;
+        _nodeY = nodeY;
+        _nodeGroupSize = nodeGroupSize;
+        _nodes = nodes;
+        _bgMat = bgMat;
+
+        hasSetTexture = false;
+    }
+
+    void SetNodeTexture(int nodeX, int nodeY, Vector2Int nodeGroupSize, ref bool[,] nodes, ref Material bgMat)
     {
         // Set Enum Flags
         NodeSurrounding surroundingNodes = NodeSurrounding.None;
@@ -51,7 +71,16 @@ public class Node : MonoBehaviour
             if (xLess   &&  yGreat   && nodes[nodeX + 1, nodeY - 1]) surroundingNodes |= NodeSurrounding.BottomRight;
         }
 
+        hasSetTexture = true;
+
         spriteRenderer.sprite = NodeGroup.sprites[(int)surroundingNodes];
         bgSpriteRenderer.material = bgMat;
+    }
+
+    private void OnWillRenderObject()
+    {
+        if (hasSetTexture) return;
+
+        SetNodeTexture(_nodeX, _nodeY, _nodeGroupSize, ref _nodes, ref _bgMat);
     }
 }

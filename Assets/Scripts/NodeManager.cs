@@ -20,13 +20,13 @@ public class NodeManager : MonoBehaviour
         GameObject tmpNode;
         for (int i = 0; i < poolCount; i++)
         {
-            tmpNode = Instantiate(nodeObject/*, transform*/);
-            //tmpNode.transform.name = "Node (Unused)";
+            tmpNode = Instantiate(nodeObject, transform);
+            tmpNode.transform.name = "Node (Unused)";
             tmpNode.SetActive(false);
             NodePool[i] = tmpNode;
         }
 
-        //UpdateName();
+        UpdateName();
     }
 
     public static GameObject GetNode()
@@ -39,10 +39,10 @@ public class NodeManager : MonoBehaviour
                 nodeFetched = NodePool[i];
 
                 nodeFetched.SetActive(true);
-                //nodeFetched.transform.parent = null;
-                //nodeFetched.name = "Node";
+                nodeFetched.transform.parent = null;
+                nodeFetched.name = "Node";
 
-                //UpdateName();
+                UpdateName();
 
                 return nodeFetched;
             }
@@ -55,10 +55,10 @@ public class NodeManager : MonoBehaviour
     public static void ReleaseNode(GameObject node)
     {
         node.SetActive(false);
-        //node.transform.parent = _Singleton.transform;
-        //node.transform.name = "Node (Unused)";
+        node.transform.parent = _Singleton.transform;
+        node.transform.name = "Node (Unused)";
 
-        //UpdateName();
+        UpdateName();
     }
 
     static void UpdateName()

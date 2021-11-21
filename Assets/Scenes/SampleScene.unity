@@ -260,6 +260,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5762996039507833780, guid: 639e3a9ce573c0b41b08fb61df98d3f7, type: 3}
+      propertyPath: nodeGroupSize.x
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5762996039507833780, guid: 639e3a9ce573c0b41b08fb61df98d3f7, type: 3}
+      propertyPath: nodeGroupSize.y
+      value: 25
+      objectReference: {fileID: 0}
     - target: {fileID: 5762996039507833781, guid: 639e3a9ce573c0b41b08fb61df98d3f7, type: 3}
       propertyPath: m_Name
       value: NodeGroup

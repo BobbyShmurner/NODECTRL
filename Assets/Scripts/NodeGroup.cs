@@ -43,7 +43,7 @@ public class NodeGroup : MonoBehaviour
 
     void Start()
     {
-        // GenerateNodes(); This causes alot of lag on startup
+        GenerateNodes();
     }
 
     private void Update()
@@ -66,10 +66,7 @@ public class NodeGroup : MonoBehaviour
         {
             // sw.Restart();
 
-            Transform childNode = nodesEmptyTrans.GetChild(0);
-
-            childNode.parent = null;
-            NodeManager.ReleaseNode(childNode.gameObject);
+            NodeManager.ReleaseNode(nodesEmptyTrans.GetChild(0).gameObject);
 
             // sw.Stop();
             // nodeDestruction += sw.ElapsedTicks;
@@ -119,7 +116,7 @@ public class NodeGroup : MonoBehaviour
                 sw.Restart();*/
 
                 newNode.GetComponent<Node>().nodeGroup = this;
-                newNode.GetComponent<Node>().SetNodeTexture(x, y, nodeGroupSize, ref nodes, ref energyMaterial);
+                newNode.GetComponent<Node>().SetVars(x, y, nodeGroupSize, ref nodes, ref energyMaterial);
 
                 /*sw.Stop();
                 nodeTextureTicks += sw.ElapsedTicks;*/
